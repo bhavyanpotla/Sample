@@ -84,25 +84,35 @@ gcc main.c -o training_platform
 
 ## 📊 Sample Output Screenshots
 
-![Main Menu](https://github.com/user-attachments/assets/d89f7977-0de0-4286-a647-a6e8d4839909)
+### **1. Main Menu Interface**
+![Main Menu](https://github.com/user-attachments/assets/d89f7977-0de0-4286-a647-a6e8d4839909){width=500}
 
-![Add Employee](https://github.com/user-attachments/assets/a82fba4f-d089-46dc-a9ce-c7a12a3abfed)
+### **2. Add Employee Screen**
+![Add Employee](https://github.com/user-attachments/assets/a82fba4f-d089-46dc-a9ce-c7a12a3abfed){width=500}
 
-![BST Visualization](https://github.com/user-attachments/assets/d03a2afc-b78f-4168-80de-cc52c31ebcb1)
+### **3. BST Tree Visualization**
+![BST Tree](https://github.com/user-attachments/assets/d03a2afc-b78f-4168-80de-cc52c31ebcb1){width=500}
 
-![Stack Display](https://github.com/user-attachments/assets/63e9ffef-3af6-47fa-89fd-fbb5a165aa4f)
+### **4. Stack (LIFO) Display**
+![Stack View](https://github.com/user-attachments/assets/63e9ffef-3af6-47fa-89fd-fbb5a165aa4f){width=500}
 
-![Queue View](https://github.com/user-attachments/assets/51dbd34e-0a57-4c48-980d-e9d9c52f641c)
+### **5. Queue (FIFO) View**
+![Queue View](https://github.com/user-attachments/assets/51dbd34e-0a57-4c48-980d-e9d9c52f641c){width=500}
 
-![Delete Employee](https://github.com/user-attachments/assets/4e41eb37-6832-4037-b748-d8f37aff9ad2)
+### **6. Delete Employee Operation**
+![Delete Employee](https://github.com/user-attachments/assets/4e41eb37-6832-4037-b748-d8f37aff9ad2){width=400}
 
-![Linked List View](https://github.com/user-attachments/assets/02c08001-a639-4b4d-b9c5-bb1d1434bcb4)
+### **7. Linked List Traversal**
+![Linked List](https://github.com/user-attachments/assets/02c08001-a639-4b4d-b9c5-bb1d1434bcb4){width=500}
 
-![File Operations](https://github.com/user-attachments/assets/8a6c801a-6fe7-449a-ac87-0ad077ff8844)
+### **8. File Load/Save Demo**
+![File Operations](https://github.com/user-attachments/assets/8a6c801a-6fe7-449a-ac87-0ad077ff8844){width=400}
 
-![Search Results](https://github.com/user-attachments/assets/0bc7d6e8-069a-428f-bc35-26192b53b0ca)
+### **9. Employee Search Results**
+![Search Results](https://github.com/user-attachments/assets/0bc7d6e8-069a-428f-bc35-26192b53b0ca){width=500}
 
-![Complete Demo](https://github.com/user-attachments/assets/774f04c7-40de-41aa-b79f-4da112af45a9)
+### **10. Complete Program Demo**
+![Full Demo](https://github.com/user-attachments/assets/774f04c7-40de-41aa-b79f-4da112af45a9){width=500}
 
 ## 🧪 Evaluation Points (For Evaluators)
 - **Memory Leak Prevention**: `resetStructures()` frees before rebuilds
