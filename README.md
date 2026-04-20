@@ -113,7 +113,7 @@ gcc main.c -o training_platform
 ![Search Results](https://github.com/user-attachments/assets/0bc7d6e8-069a-428f-bc35-26192b53b0ca){width=500}
 
 ### **10. RE-VISIT Registry **
-![Full Demo](https://github.com/user-attachments/assets/774f04c7-40de-41aa-b79f-4da112af45a9){width=500}
+![Full Demo](https://github.com/user-attachments/assets/774f04c7-40de-41aa-b79f-4da112af45a9) 
 
 ## 🧪 Evaluation Points (For Evaluators)
 - **Memory Leak Prevention**: `resetStructures()` frees before rebuilds
