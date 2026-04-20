@@ -99,20 +99,20 @@ gcc main.c -o training_platform
 ### **5. Linked List Vew**
 ![Queue View](https://github.com/user-attachments/assets/51dbd34e-0a57-4c48-980d-e9d9c52f641c) 
 
-### **6.  Stack (LIFO) Display **
+### **6.  Stack (LIFO) Display**
 ![Delete Employee](https://github.com/user-attachments/assets/4e41eb37-6832-4037-b748-d8f37aff9ad2) 
 
 ### **7. Queue (FIFO) View**
 <img width="1151" height="212" alt="image" src="https://github.com/user-attachments/assets/6ff45b76-b433-4f6c-99ea-9405c8c06c04" />
 
 
-### **8.  BST Tree Visualization **
+### **8.  BST Tree Visualization**
 ![File Operations](https://github.com/user-attachments/assets/8a6c801a-6fe7-449a-ac87-0ad077ff8844) 
 
-### **9. Delete Employee Operation **
+### **9. Delete Employee Operation**
 ![Search Results](https://github.com/user-attachments/assets/0bc7d6e8-069a-428f-bc35-26192b53b0ca) 
 
-### **10. RE-VISIT Registry **
+### **10. RE-VISIT Registry**
 ![Full Demo](https://github.com/user-attachments/assets/774f04c7-40de-41aa-b79f-4da112af45a9) 
 
 ## 🧪 Evaluation Points (For Evaluators)
