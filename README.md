@@ -103,7 +103,8 @@ gcc main.c -o training_platform
 ![Delete Employee](https://github.com/user-attachments/assets/4e41eb37-6832-4037-b748-d8f37aff9ad2){width=400}
 
 ### **7. Queue (FIFO) View**
-![Linked List](https://github.com/user-attachments/assets/02c08001-a639-4b4d-b9c5-bb1d1434bcb4){width=500}
+<img width="1151" height="212" alt="image" src="https://github.com/user-attachments/assets/6ff45b76-b433-4f6c-99ea-9405c8c06c04" />
+
 
 ### **8.  BST Tree Visualization **
 ![File Operations](https://github.com/user-attachments/assets/8a6c801a-6fe7-449a-ac87-0ad077ff8844){width=400}
