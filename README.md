@@ -90,7 +90,7 @@ gcc main.c -o training_platform
  
 
 ### **2. Add Employee Screen**
-### Clean console menu showing all CRUD operations (1-Add, 2-Display List, 3-Structures Menu, 4-Exit) with professional borders and clear numbering.
+### Employee input form collecting ID, Name, Course Name, and Training Score with input validation and confirmation prompt.
 ![Add Employee](https://github.com/user-attachments/assets/a82fba4f-d089-46dc-a9ce-c7a12a3abfed) 
  
 
