@@ -86,34 +86,43 @@ gcc main.c -o training_platform
 
 ### **1. Main Menu Interface**
 ![Main Menu](https://github.com/user-attachments/assets/d89f7977-0de0-4286-a647-a6e8d4839909) 
-### ***************************************************************
+### Clean console menu showing all CRUD operations (1-Add, 2-Display List, 3-Structures Menu, 4-Exit) with professional borders and clear numbering.
+
 ### **2. Add Employee Screen**
 ![Add Employee](https://github.com/user-attachments/assets/a82fba4f-d089-46dc-a9ce-c7a12a3abfed) 
+### Clean console menu showing all CRUD operations (1-Add, 2-Display List, 3-Structures Menu, 4-Exit) with professional borders and clear numbering.
 
 ### **3. Tabular View Registry**
-![BST Tree](https://github.com/user-attachments/assets/d03a2afc-b78f-4168-80de-cc52c31ebcb1) 
+![BST Tree](https://github.com/user-attachments/assets/d03a2afc-b78f-4168-80de-cc52c31ebcb1)
+### Complete employee registry in tabular format showing ID, Name, Course, and Score for all stored records from linked list master database.
 
 ### **4. Data Structure Representation Menu**
 ![Stack View](https://github.com/user-attachments/assets/63e9ffef-3af6-47fa-89fd-fbb5a165aa4f) 
+### Secondary menu for viewing data through different structures (1-Stack, 2-Queue, 3-BST, 4-Back) demonstrating multi-view architecture.
 
 ### **5. Linked List Vew**
 ![Queue View](https://github.com/user-attachments/assets/51dbd34e-0a57-4c48-980d-e9d9c52f641c) 
+### Forward traversal of master singly linked list showing complete employee records in chronological insertion order.
 
 ### **6.  Stack (LIFO) Display**
 ![Delete Employee](https://github.com/user-attachments/assets/4e41eb37-6832-4037-b748-d8f37aff9ad2) 
+### LIFO stack visualization showing most recent employees at top (reverse chronological order) with clear stack formatting.
 
 ### **7. Queue (FIFO) View**
 <img width="1151" height="212" alt="image" src="https://github.com/user-attachments/assets/6ff45b76-b433-4f6c-99ea-9405c8c06c04" />
-
+### FIFO queue showing processing order (first-come-first-served) from front to rear pointer traversal.
 
 ### **8.  BST Tree Visualization**
 ![File Operations](https://github.com/user-attachments/assets/8a6c801a-6fe7-449a-ac87-0ad077ff8844) 
+### Binary Search Tree hierarchy rendered with recursive indentation showing sorted employee IDs in in-order traversal.
 
 ### **9. Delete Employee Operation**
 ![Search Results](https://github.com/user-attachments/assets/0bc7d6e8-069a-428f-bc35-26192b53b0ca) 
+### Employee deletion by ID with confirmation, successful removal message, and updated record count display.
 
 ### **10. RE-VISIT Registry**
 ![Full Demo](https://github.com/user-attachments/assets/774f04c7-40de-41aa-b79f-4da112af45a9) 
+### Program restart showing successful file load from training_data.dat with all previous records automatically restored.
 
 ## 🧪 Evaluation Points (For Evaluators)
 - **Memory Leak Prevention**: `resetStructures()` frees before rebuilds
